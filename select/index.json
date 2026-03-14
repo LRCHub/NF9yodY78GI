@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "銀座乙女椿",
+  "base_artist": "真壁寂室",
+  "createdAt": "2026-03-14T06:33:25.407152Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀座乙女椿",
+      "artist": "真壁寂室",
+      "has_synced": false,
+      "path": "select/pl_01_銀座乙女椿_真壁寂室.txt"
+    }
+  ]
+}
